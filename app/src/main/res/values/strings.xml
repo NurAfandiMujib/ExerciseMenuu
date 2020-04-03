@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Exercise Menu</string>
+    <string name="labelapp">LOGIN USER</string>
+    <string name="un">Username</string>
+    <string name="ps">Password</string>
+    <string name="btn">Sign-In</string>
+    <string name="masukan_password">Masukan Password</string>
+    <string name="masukan_username">Masukan Username</string>
+</resources>
